@@ -1,5 +1,5 @@
 GEM
-  remote: https://rubygems.org/
+  remote: http://rubygems.org/
   specs:
     actionmailer (4.0.0)
       actionpack (= 4.0.0)
@@ -164,3 +164,9 @@ DEPENDENCIES
   sqlite3
   thin
   uglifier (>= 1.0.3)
+
+RUBY VERSION
+   ruby 2.0.0p648
+
+BUNDLED WITH
+   1.15.3
