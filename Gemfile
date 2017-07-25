@@ -36,7 +36,7 @@ gem 'jquery-ui-rails'
 gem 'amazon_flex_pay'
 
 # Configuration File
-gem 'rails_config'
+gem 'config'
 
 # For Heroku
 gem 'rails_12factor'
