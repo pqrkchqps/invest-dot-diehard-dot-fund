@@ -2,7 +2,7 @@ source 'http://rubygems.org'
 
 ruby '2.3.1'
 
-gem 'rails', '4.0.0'
+gem 'rails', '4.0.6'
 gem 'json', '~> 1.8.2'
 
 group :development do
